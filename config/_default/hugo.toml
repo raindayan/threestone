@@ -1,0 +1,15 @@
+baseURL = 'https://threestone.top/'
+defaultContentLanguage = 'zh-cn'
+title = '岩'
+theme = 'blowfish'
+[params]
+  description = '成长和生活'
+[menus]
+  [[menus.main]]
+    name = '全部文章'
+    pageRef = 'posts'
+    weight = 20
+  [[menus.main]]
+    name = '关于我'
+    pageRef = 'about'
+    weight = 20
