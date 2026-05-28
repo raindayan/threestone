@@ -1,6 +1,6 @@
 baseURL = 'https://threestone.top/'
 defaultContentLanguage = 'zh-cn'
-title = '岩'
+title = '岩的日志'
 theme = 'blowfish'
 hasCJKLanguage = true
 [params]
