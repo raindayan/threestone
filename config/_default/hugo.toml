@@ -1,10 +1,11 @@
 baseURL = 'https://threestone.top/'
 defaultContentLanguage = 'zh-cn'
-title = '岩的日志'
+title = '岩的Blog'
 theme = 'blowfish'
 hasCJKLanguage = true
 [params]
   description = '成长和生活'
+  logo = '/img/logo.jpg'
 [menus]
   [[menus.main]]
     name = '全部文章'
